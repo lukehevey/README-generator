@@ -1,47 +1,45 @@
 
-  # Super Cool Project
+  # README Generator
 
 
   ## Badges
-  
+  ![GitHub License](https://img.shields.io/badge/license-MIT License-blue.svg)
   
   
   ## Table of Contents
   -[Description](#description)
   -[Installation](#installation)
   -[Usage](#usage)
-  
+  -[License](#license)
   -[Contributing](#contributing)
   -[Tests](#tests)
   -[Questions](#questions)
   
   
   ## Description
-  Very descriptive description
+  The purpose of this project is to create a command-line application that builds the user a README based off their input to questions. Given starter code helped with the process of completing this project, but it didn't come without difficulty. The struggles with this project came with gettting the answers to link to the markdown when writing it to the file. 
   
   
   ## Installation
-  Install ...
+  For installation you need to install inquirer and node.
   
   
   ## Usage
-  For usage ...
+  Use npm install and intall inquirer for usage of this application.
 
 
   ## License
   
       
-      
   ## Contributing
-  Contributor
   
   
   ## Tests
-  Must use in command-line 
+  Type 'node index.js' in the command-line to run tests. 
   
   
   ## Questions
-  [My GitHub link](https://github.com/supercoolguy1223)
+  [My GitHub link](https://github.com/lukehevey)
       
-  Email to reach me with additional questions: coolguy@gmail.com
+  Email to reach me with additional questions: lukehevey8@gmail.com
   
